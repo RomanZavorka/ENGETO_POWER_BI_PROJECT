@@ -13,7 +13,7 @@ The task in this project is to visualize a freely chosen dataset according to th
 * Graphical editing of used visuals and a visually appealing final report
 
 ## CHOSEN TOPIC AND SOURCES USED
-The topic of this project is "Evolution of several demographic indicators in selected European and near West Asian countries," for which following sources have been used:
+The chosen theme for visualization is "Evolution of several demographic indicators in selected European and near West Asian countries," for which following sources (datasets) have been used:
 * [Population by age group and sex](https://ec.europa.eu/eurostat/databrowser/view/demo_pjangroup/default/table?lang=en&category=demo.demo_pop)
 * [Live births by mother's age and newborn's sex](https://ec.europa.eu/eurostat/databrowser/view/demo_fasec__custom_9921347/default/table?lang=en)
 * [Deaths by age and sex](https://ec.europa.eu/eurostat/databrowser/view/demo_magec__custom_9920308/default/table?lang=en)
